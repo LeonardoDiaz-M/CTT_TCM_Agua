@@ -1,0 +1,2146 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TCMAdmin
+</name>
+</assembly>
+<members>
+<member name="T:TCMAdmin.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources._exit">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources._new">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Agrega">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.back">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.bar_chart">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Bloquear">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.book_marks">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.bulletchico">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Delete">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.delete1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Desbloquear">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.edit">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.edit1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Eliminar1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Escudo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.excel">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Excel1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.find">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.findMNU">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.help">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Icon_File_Excel">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Icon_File_Pdf">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Icon_folder_open">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Icon_Folder_Search">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Icon_Search">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Icon_Search_Lupa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Icon_Undo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.IconBack">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.IconDelete">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.IconEdit">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.iconfinder_MB__calculator_81184">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.IconImage">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.IconNew">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.IconoUndo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.IconReports">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.IconSave">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.IconUndo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Lecturas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.LecturasCuenta">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.list">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.LogoMpio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.LogoMpio1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.modalwin">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.open_folder">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.osfem">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.osfem1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.osfem11">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.pdf">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.plus">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.predial">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Print">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.printer">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Quitar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Quitar1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.refresh">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.reginter">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.report">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.save">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.search">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.TCM">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.Undo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TCMAdmin.My.Resources.Resources.User_Delete">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSet.tbMenuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSet.rutasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSet.tbMenuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSet.rutasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSet.tbMenuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSet.rutasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSetTableAdapters.tbMenuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSetTableAdapters.rutasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.base_mpio207DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.base_mpio207DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.base_mpio207DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.base_mpio207DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.base_mpio207DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.base_mpio207DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.base_mpio207DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.base_mpio207DataSetTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.base_mpio207DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.base_mpio207DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TCMAdmin.dasPredial">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dasPredial.arc_predialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dasPredial.arc_predialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dasPredial.arc_predialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dasPredialTableAdapters.arc_predialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dasPredialTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.dasPredialTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.dasPredial,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dasPredialTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.dasPredial,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dasPredialTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.dasPredial,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dasPredialTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.dasPredialTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.dasPredial)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.dasPredialTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.dasPredialTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.coloniasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tipo_inmuebleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.rutasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.paeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.localidadesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.colonias1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_status_contribuyenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.recargosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tip_contribuyenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.fma_pagoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.ced_fiscalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.arc_aguaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_UserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_RolDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_ProfileDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.QryMenuActiveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.Forma_Calculo_Consumo_AguaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_consumo_aguaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.coloniasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tipo_inmuebleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.rutasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.paeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.localidadesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.colonias1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_status_contribuyenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.recargosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tip_contribuyenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.fma_pagoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.ced_fiscalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.arc_aguaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_UserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_RolRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_ProfileRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.QryMenuActiveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.Forma_Calculo_Consumo_AguaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_consumo_aguaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.coloniasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tipo_inmuebleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.rutasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.paeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.localidadesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.colonias1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_status_contribuyenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.recargosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tip_contribuyenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.fma_pagoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.ced_fiscalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.arc_aguaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_UserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_RolRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_ProfileRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.QryMenuActiveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.Forma_Calculo_Consumo_AguaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAgua.tbl_consumo_aguaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.coloniasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.tipo_inmuebleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.rutasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.paeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.localidadesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.colonias1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.tbl_status_contribuyenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.recargosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.tip_contribuyenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.fma_pagoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.ced_fiscalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.arc_aguaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.tbl_UserTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.tbl_RolTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.tbl_ProfileTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.QryMenuActiveTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.Forma_Calculo_Consumo_AguaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.tbl_consumo_aguaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.dsAguaTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.dsAgua,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsAguaTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.dsAgua,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsAguaTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.dsAgua,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsAguaTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.dsAguaTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.dsAgua)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.dsAguaTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.tip_predioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.cat_cuentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.oficinasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.tip_contribuyenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.tbl_status_contribuyenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.dependenciasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.tip_predioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.cat_cuentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.oficinasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.tip_contribuyenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.tbl_status_contribuyenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.dependenciasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.tip_predioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.cat_cuentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.oficinasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.tip_contribuyenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.tbl_status_contribuyenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.dependenciasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogos.bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.tip_predioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.cat_cuentasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.oficinasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.tip_contribuyenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.tbl_status_contribuyenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.dependenciasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.bancosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.dsCatalogosTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.dsCatalogos,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsCatalogosTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.dsCatalogos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsCatalogosTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.dsCatalogos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsCatalogosTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.dsCatalogosTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.dsCatalogos)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.dsCatalogosTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicencias">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicencias.tbl_lic_municipalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicencias.Panteones_Tipo_DepositoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicencias.tbl_lic_municipalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicencias.Panteones_Tipo_DepositoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicencias.tbl_lic_municipalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicencias.Panteones_Tipo_DepositoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicenciasTableAdapters.tbl_lic_municipalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicenciasTableAdapters.Panteones_Tipo_DepositoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicenciasTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.dsLicenciasTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.dsLicencias,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsLicenciasTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.dsLicencias,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsLicenciasTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.dsLicencias,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsLicenciasTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.dsLicenciasTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.dsLicencias)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicenciasTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.dsLicenciasTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.C_LIQ_PREDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.Pae_EncabezadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.arc_predialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.viePaeDetalleCalculoPredialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.arc_aguaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.C_LIQ_AGUADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.PAE_ENCABEZADO_AGUADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.viePaeDetalleCalculoDerechoAguaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.tbl_lic_municipalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.C_LIQ_LICENCIASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.PAE_ENCABEZADO_LICENCIASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.viePaeDetalleLicenciasMunicipalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.C_LIQ_PREDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.Pae_EncabezadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.arc_predialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.viePaeDetalleCalculoPredialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.arc_aguaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.C_LIQ_AGUARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.PAE_ENCABEZADO_AGUARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.viePaeDetalleCalculoDerechoAguaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.tbl_lic_municipalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.C_LIQ_LICENCIASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.PAE_ENCABEZADO_LICENCIASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.viePaeDetalleLicenciasMunicipalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.C_LIQ_PREDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.Pae_EncabezadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.arc_predialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.viePaeDetalleCalculoPredialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.arc_aguaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.C_LIQ_AGUARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.PAE_ENCABEZADO_AGUARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.viePaeDetalleCalculoDerechoAguaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.tbl_lic_municipalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.C_LIQ_LICENCIASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.PAE_ENCABEZADO_LICENCIASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPae.viePaeDetalleLicenciasMunicipalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.C_LIQ_PREDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.Pae_EncabezadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.arc_predialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.viePaeDetalleCalculoPredialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.arc_aguaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.C_LIQ_AGUATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.PAE_ENCABEZADO_AGUATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.viePaeDetalleCalculoDerechoAguaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.tbl_lic_municipalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.C_LIQ_LICENCIASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.PAE_ENCABEZADO_LICENCIASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.viePaeDetalleLicenciasMunicipalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPaeTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.dsPae,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPaeTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.dsPae,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPaeTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.dsPae,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPaeTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPaeTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.dsPae)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPaeTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.parametrDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.recargosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_predialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_derechosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.arc_subDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_tarifas_aguaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl1_predialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl1_tarifas_aguaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tipo_inmuebleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_DiametroTomaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_dias_inhabilesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.datos_mpioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.parametrRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.recargosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_predialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_derechosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.arc_subRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_tarifas_aguaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl1_predialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl1_tarifas_aguaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tipo_inmuebleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_DiametroTomaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_dias_inhabilesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.datos_mpioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.parametrRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.recargosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_predialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_derechosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.arc_subRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_tarifas_aguaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl1_predialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl1_tarifas_aguaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tipo_inmuebleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_DiametroTomaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.tbl_dias_inhabilesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametros.datos_mpioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.parametrTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.recargosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.tbl_predialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.tbl_derechosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.arc_subTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.tbl_tarifas_aguaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.tbl1_predialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.tbl1_tarifas_aguaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.tipo_inmuebleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.tbl_DiametroTomaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.tbl_dias_inhabilesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.datos_mpioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.dsParametrosTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.dsParametros,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsParametrosTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.dsParametros,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsParametrosTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.dsParametros,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsParametrosTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.dsParametrosTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.dsParametros)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.dsParametrosTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPredial">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPredial.arc_predialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPredial.arc_predialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPredial.arc_predialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPredialTableAdapters.arc_predialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPredialTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPredialTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.dsPredial,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPredialTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.dsPredial,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPredialTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.dsPredial,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPredialTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.dsPredialTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.dsPredial)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPredialTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.dsPredialTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.view_arc_tranDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.oficinasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.ced_fiscalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.arc_predialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.tab_mov_predialDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.view_arc_ingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.vieArcTransaccionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.datos_mpioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.facturasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.arc_tranDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.view_arc_tranRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.oficinasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.ced_fiscalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.arc_predialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.tab_mov_predialRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.view_arc_ingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.vieArcTransaccionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.datos_mpioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.facturasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.arc_tranRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.view_arc_tranRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.oficinasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.ced_fiscalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.arc_predialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.tab_mov_predialRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.view_arc_ingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.vieArcTransaccionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.datos_mpioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.facturasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportes.arc_tranRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.view_arc_tranTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.oficinasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.ced_fiscalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.arc_predialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.tab_mov_predialTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.view_arc_ingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.vieArcTransaccionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.datos_mpioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.facturasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.arc_tranTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.dsReportesTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.dsReportes,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsReportesTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.dsReportes,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsReportesTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.dsReportes,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsReportesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.dsReportesTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.dsReportes)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.dsReportesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad.tbMainSubMenusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad.tbMainMenuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad.aspnet_RolesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad.tbMainSubMenusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad.tbMainMenuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad.aspnet_RolesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad.tbMainSubMenusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad.tbMainMenuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridad.aspnet_RolesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridadTableAdapters.tbMainSubMenusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridadTableAdapters.tbMainMenuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridadTableAdapters.aspnet_RolesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridadTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TCMAdmin.dsSeguridadTableAdapters.TableAdapterManager.UpdateUpdatedRows(TCMAdmin.dsSeguridad,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsSeguridadTableAdapters.TableAdapterManager.UpdateInsertedRows(TCMAdmin.dsSeguridad,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsSeguridadTableAdapters.TableAdapterManager.UpdateDeletedRows(TCMAdmin.dsSeguridad,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TCMAdmin.dsSeguridadTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TCMAdmin.dsSeguridadTableAdapters.TableAdapterManager.UpdateAll(TCMAdmin.dsSeguridad)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridadTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TCMAdmin.dsSeguridadTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
