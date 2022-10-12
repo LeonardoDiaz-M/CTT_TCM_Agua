@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="base_mpioDataSet" targetNamespace="http://tempuri.org/base_mpioDataSet.xsd" xmlns:mstns="http://tempuri.org/base_mpioDataSet.xsd" xmlns="http://tempuri.org/base_mpioDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="base_mpioConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="base_mpioConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TCMAdmin.My.MySettings.GlobalReference.Default.base_mpioConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="viePaeDetalleCalculoPredialTableAdapter" GeneratorDataComponentClassName="viePaeDetalleCalculoPredialTableAdapter" Name="viePaeDetalleCalculoPredial" UserDataComponentName="viePaeDetalleCalculoPredialTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="base_mpioConnectionString (MySettings)" DbObjectName="base_mpio.dbo.viePaeDetalleCalculoPredial" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Cve_Catastral, Propietario, Ubicacion, BaseUno, Sum_Imp, Sum_rec, Sum_mul, Sum_Gst, Sum_Acce, Total, Per_Ini, Per_Fin
+FROM            viePaeDetalleCalculoPredial</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Cve_Catastral" DataSetColumn="Cve_Catastral" />
+              <Mapping SourceColumn="Propietario" DataSetColumn="Propietario" />
+              <Mapping SourceColumn="Ubicacion" DataSetColumn="Ubicacion" />
+              <Mapping SourceColumn="BaseUno" DataSetColumn="BaseUno" />
+              <Mapping SourceColumn="Sum_Imp" DataSetColumn="Sum_Imp" />
+              <Mapping SourceColumn="Sum_rec" DataSetColumn="Sum_rec" />
+              <Mapping SourceColumn="Sum_mul" DataSetColumn="Sum_mul" />
+              <Mapping SourceColumn="Sum_Gst" DataSetColumn="Sum_Gst" />
+              <Mapping SourceColumn="Sum_Acce" DataSetColumn="Sum_Acce" />
+              <Mapping SourceColumn="Total" DataSetColumn="Total" />
+              <Mapping SourceColumn="Per_Ini" DataSetColumn="Per_Ini" />
+              <Mapping SourceColumn="Per_Fin" DataSetColumn="Per_Fin" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="base_mpioDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="base_mpioDataSet" msprop:Generator_UserDSName="base_mpioDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="viePaeDetalleCalculoPredial" msprop:Generator_TableClassName="viePaeDetalleCalculoPredialDataTable" msprop:Generator_TableVarName="tableviePaeDetalleCalculoPredial" msprop:Generator_TablePropName="viePaeDetalleCalculoPredial" msprop:Generator_RowDeletingName="viePaeDetalleCalculoPredialRowDeleting" msprop:Generator_RowChangingName="viePaeDetalleCalculoPredialRowChanging" msprop:Generator_RowEvHandlerName="viePaeDetalleCalculoPredialRowChangeEventHandler" msprop:Generator_RowDeletedName="viePaeDetalleCalculoPredialRowDeleted" msprop:Generator_UserTableName="viePaeDetalleCalculoPredial" msprop:Generator_RowChangedName="viePaeDetalleCalculoPredialRowChanged" msprop:Generator_RowEvArgName="viePaeDetalleCalculoPredialRowChangeEvent" msprop:Generator_RowClassName="viePaeDetalleCalculoPredialRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Cve_Catastral" msprop:Generator_ColumnVarNameInTable="columnCve_Catastral" msprop:Generator_ColumnPropNameInRow="Cve_Catastral" msprop:Generator_ColumnPropNameInTable="Cve_CatastralColumn" msprop:Generator_UserColumnName="Cve_Catastral" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="16" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Propietario" msprop:Generator_ColumnVarNameInTable="columnPropietario" msprop:Generator_ColumnPropNameInRow="Propietario" msprop:Generator_ColumnPropNameInTable="PropietarioColumn" msprop:Generator_UserColumnName="Propietario" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="120" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ubicacion" msprop:Generator_ColumnVarNameInTable="columnUbicacion" msprop:Generator_ColumnPropNameInRow="Ubicacion" msprop:Generator_ColumnPropNameInTable="UbicacionColumn" msprop:Generator_UserColumnName="Ubicacion" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="120" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="BaseUno" msprop:Generator_ColumnVarNameInTable="columnBaseUno" msprop:Generator_ColumnPropNameInRow="BaseUno" msprop:Generator_ColumnPropNameInTable="BaseUnoColumn" msprop:Generator_UserColumnName="BaseUno" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Sum_Imp" msprop:Generator_ColumnVarNameInTable="columnSum_Imp" msprop:Generator_ColumnPropNameInRow="Sum_Imp" msprop:Generator_ColumnPropNameInTable="Sum_ImpColumn" msprop:Generator_UserColumnName="Sum_Imp" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Sum_rec" msprop:Generator_ColumnVarNameInTable="columnSum_rec" msprop:Generator_ColumnPropNameInRow="Sum_rec" msprop:Generator_ColumnPropNameInTable="Sum_recColumn" msprop:Generator_UserColumnName="Sum_rec" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Sum_mul" msprop:Generator_ColumnVarNameInTable="columnSum_mul" msprop:Generator_ColumnPropNameInRow="Sum_mul" msprop:Generator_ColumnPropNameInTable="Sum_mulColumn" msprop:Generator_UserColumnName="Sum_mul" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Sum_Gst" msprop:Generator_ColumnVarNameInTable="columnSum_Gst" msprop:Generator_ColumnPropNameInRow="Sum_Gst" msprop:Generator_ColumnPropNameInTable="Sum_GstColumn" msprop:Generator_UserColumnName="Sum_Gst" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Sum_Acce" msprop:Generator_ColumnVarNameInTable="columnSum_Acce" msprop:Generator_ColumnPropNameInRow="Sum_Acce" msprop:Generator_ColumnPropNameInTable="Sum_AcceColumn" msprop:Generator_UserColumnName="Sum_Acce" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Per_Ini" msprop:Generator_ColumnVarNameInTable="columnPer_Ini" msprop:Generator_ColumnPropNameInRow="Per_Ini" msprop:Generator_ColumnPropNameInTable="Per_IniColumn" msprop:Generator_UserColumnName="Per_Ini" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Per_Fin" msprop:Generator_ColumnVarNameInTable="columnPer_Fin" msprop:Generator_ColumnPropNameInRow="Per_Fin" msprop:Generator_ColumnPropNameInTable="Per_FinColumn" msprop:Generator_UserColumnName="Per_Fin" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
