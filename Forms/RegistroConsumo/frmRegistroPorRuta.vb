@@ -110,7 +110,7 @@ Public Class frmRegistroPorRuta
             messageBoxInfo.HeaderFormatted = "<i>Mensaje: </i>"
             messageBoxInfo.ShowHelpButton = Infragistics.Win.DefaultableBoolean.False
             If message = "Object variable or With block variable not set." Then
-                Exit Function
+                result = "-1"
             End If
             ' Create a HelpInfo object to hold the help data 
             Using helpData As New HelpInfo("", "")

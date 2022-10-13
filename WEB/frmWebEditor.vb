@@ -34,9 +34,9 @@
         'Me.WebBrowser1.IsWebBrowserContextMenuEnabled = False
     End Sub
 
-    Public Function DocLoaded(sender As Object, e As WebBrowserDocumentCompletedEventArgs)
-        doc = Me.WebBrowser1.Document.DomDocument
-        contentDiv = doc.getElementsByTagName("div")(0)
-        contentDiv.innerHtml = ""
-    End Function
+    'Public Function DocLoaded(sender As Object, e As WebBrowserDocumentCompletedEventArgs)
+    '    doc = Me.WebBrowser1.Document.DomDocument
+    '    contentDiv = doc.getElementsByTagName("div")(0)
+    '    contentDiv.innerHtml = ""
+    'End Function
 End Class
