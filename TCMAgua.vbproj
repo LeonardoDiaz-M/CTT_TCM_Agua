@@ -731,142 +731,148 @@
       <DependentUpon>RptValoresCatastrales.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptActaEmbargoLicencias.vb">
-      <DependentUpon>rptActaEmbargoLicencias.rpt</DependentUpon>
+    <Compile Include="Reportes\Pae\rptActaEmbargoDerechosAgua1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Reportes\Pae\rptActaEmbargoDerechosAgua.vb">
       <DependentUpon>rptActaEmbargoDerechosAgua.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptActaEmbargoPredial.vb">
+    <Compile Include="Reportes\Pae\rptActaEmbargoLicencias1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptActaEmbargoLicencias.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Pae\rptActaEmbargoPredial1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptActaEmbargoPredial.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptCartaInvitacionConLiquidacionLicencias.vb">
-      <DependentUpon>rptCartaInvitacionConLiquidacionLicencias.rpt</DependentUpon>
+    <Compile Include="Reportes\Pae\rptCartaInvitacionConLiquidacionDerechosAgua1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Reportes\Pae\rptCartaInvitacionConLiquidacionDerechosAgua.vb">
       <DependentUpon>rptCartaInvitacionConLiquidacionDerechosAgua.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionLicencias.vb">
-      <DependentUpon>rptCartaInvitacionSinLiquidacionLicencias.rpt</DependentUpon>
+    <Compile Include="Reportes\Pae\rptCartaInvitacionConLiquidacionLicencias1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
+      <DependentUpon>rptCartaInvitacionConLiquidacionLicencias.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionDerechosAgua.vb">
-      <DependentUpon>rptCartaInvitacionSinLiquidacionDerechosAgua.rpt</DependentUpon>
+    <Compile Include="Reportes\Pae\rptCartaInvitacionConLiquidacionPredial1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Reportes\Pae\rptCartaInvitacionConLiquidacionPredial.vb">
       <DependentUpon>rptCartaInvitacionConLiquidacionPredial.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionPredial.vb">
+    <Compile Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionDerechosAgua1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCartaInvitacionSinLiquidacionDerechosAgua.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionLicencias1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCartaInvitacionSinLiquidacionLicencias.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionPredial1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCartaInvitacionSinLiquidacionPredial.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptCitatorioLicencias.vb">
-      <DependentUpon>rptCitatorioLicencias.rpt</DependentUpon>
+    <Compile Include="Reportes\Pae\rptCitatorioDerechosAgua1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Reportes\Pae\rptCitatorioDerechosAgua.vb">
       <DependentUpon>rptCitatorioDerechosAgua.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptCitatorioPredial.vb">
+    <Compile Include="Reportes\Pae\rptCitatorioLicencias1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCitatorioLicencias.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Pae\rptCitatorioPredial1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptCitatorioPredial.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptDiagnosticoAdeudoImpuestoPredial.vb">
+    <Compile Include="Reportes\Pae\rptDiagnosticoAdeudoImpuestoPredial1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
       <DependentUpon>rptDiagnosticoAdeudoImpuestoPredial.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptDiagnosticoPorContribuyenteDerechosAgua.vb">
-      <DependentUpon>rptDiagnosticoPorContribuyenteDerechosAgua.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Reportes\Pae\rptDiagnosticoPorMontoAdeudoLicencias.vb">
-      <DependentUpon>rptDiagnosticoPorMontoAdeudoLicencias.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Reportes\Pae\rptDiagnosticoPorContribuyenteLicencias.vb">
-      <DependentUpon>rptDiagnosticoPorContribuyenteLicencias.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Reportes\Pae\rptDiagnosticoPorContribuyente.vb">
+    <Compile Include="Reportes\Pae\rptDiagnosticoPorContribuyente1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptDiagnosticoPorContribuyente.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptNotificacionAdeudoDerechosAgua.vb">
-      <DependentUpon>rptNotificacionAdeudoDerechosAgua.rpt</DependentUpon>
+    <Compile Include="Reportes\Pae\rptDiagnosticoPorContribuyenteDerechosAgua1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
+      <DependentUpon>rptDiagnosticoPorContribuyenteDerechosAgua.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptNotificacionAdeudoLicencias.vb">
-      <DependentUpon>rptNotificacionAdeudoLicencias.rpt</DependentUpon>
+    <Compile Include="Reportes\Pae\rptDiagnosticoPorContribuyenteLicencias1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
+      <DependentUpon>rptDiagnosticoPorContribuyenteLicencias.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptMandamientoEjecucionLicencias.vb">
-      <DependentUpon>rptMandamientoEjecucionLicencias.rpt</DependentUpon>
+    <Compile Include="Reportes\Pae\rptDiagnosticoPorMontoAdeudoLicencias1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
+      <DependentUpon>rptDiagnosticoPorMontoAdeudoLicencias.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptMandamientoEjecucionDerechosAgua.vb">
+    <Compile Include="Reportes\Pae\rptMandamientoEjecucionDerechosAgua1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
       <DependentUpon>rptMandamientoEjecucionDerechosAgua.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptMandamientoEjecucionPredial.vb">
+    <Compile Include="Reportes\Pae\rptMandamientoEjecucionLicencias1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMandamientoEjecucionLicencias.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Pae\rptMandamientoEjecucionPredial1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
       <DependentUpon>rptMandamientoEjecucionPredial.rpt</DependentUpon>
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Pae\rptNotificacionAdeudoImpuestoPredial.vb">
+    <Compile Include="Reportes\Pae\rptMandamientosEjecucion.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMandamientosEjecucion.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Pae\rptNotificacionAdeudoDerechosAgua1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptNotificacionAdeudoDerechosAgua.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Pae\rptNotificacionAdeudoImpuestoPredial1.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptNotificacionAdeudoImpuestoPredial.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\Pae\rptNotificacionAdeudoLicencias1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptNotificacionAdeudoLicencias.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reportes\RptPadronContribuyentes.Designer.vb">
@@ -999,15 +1005,11 @@
     <Compile Include="WEB\frmWebRoles.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="WEB\frmWebRootMenu.Designer.vb">
-      <DependentUpon>frmWebRootMenu.vb</DependentUpon>
-    </Compile>
+    <Compile Include="WEB\frmWebRootMenu.Designer.vb" />
     <Compile Include="WEB\frmWebRootMenu.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="WEB\frmWebSubMenu.Designer.vb">
-      <DependentUpon>frmWebSubMenu.vb</DependentUpon>
-    </Compile>
+    <Compile Include="WEB\frmWebSubMenu.Designer.vb" />
     <Compile Include="WEB\frmWebSubMenu.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -1264,97 +1266,101 @@
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>RptValoresCatastrales.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptActaEmbargoLicencias.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptActaEmbargoLicencias.vb</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptActaEmbargoDerechosAgua.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptActaEmbargoDerechosAgua.vb</LastGenOutput>
+      <LastGenOutput>rptActaEmbargoDerechosAgua1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Pae\rptActaEmbargoLicencias.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptActaEmbargoLicencias1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptActaEmbargoPredial.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptActaEmbargoPredial.vb</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptCartaInvitacionConLiquidacionLicencias.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptCartaInvitacionConLiquidacionLicencias.vb</LastGenOutput>
+      <LastGenOutput>rptActaEmbargoPredial1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptCartaInvitacionConLiquidacionDerechosAgua.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptCartaInvitacionConLiquidacionDerechosAgua.vb</LastGenOutput>
+      <LastGenOutput>rptCartaInvitacionConLiquidacionDerechosAgua1.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionLicencias.rpt">
+    <EmbeddedResource Include="Reportes\Pae\rptCartaInvitacionConLiquidacionLicencias.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptCartaInvitacionSinLiquidacionLicencias.vb</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionDerechosAgua.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptCartaInvitacionSinLiquidacionDerechosAgua.vb</LastGenOutput>
+      <LastGenOutput>rptCartaInvitacionConLiquidacionLicencias1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptCartaInvitacionConLiquidacionPredial.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptCartaInvitacionConLiquidacionPredial.vb</LastGenOutput>
+      <LastGenOutput>rptCartaInvitacionConLiquidacionPredial1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionDerechosAgua.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCartaInvitacionSinLiquidacionDerechosAgua1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionLicencias.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCartaInvitacionSinLiquidacionLicencias1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptCartaInvitacionSinLiquidacionPredial.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptCartaInvitacionSinLiquidacionPredial.vb</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptCitatorioLicencias.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptCitatorioLicencias.vb</LastGenOutput>
+      <LastGenOutput>rptCartaInvitacionSinLiquidacionPredial1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptCitatorioDerechosAgua.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptCitatorioDerechosAgua.vb</LastGenOutput>
+      <LastGenOutput>rptCitatorioDerechosAgua1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Pae\rptCitatorioLicencias.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCitatorioLicencias1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptCitatorioPredial.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptCitatorioPredial.vb</LastGenOutput>
+      <LastGenOutput>rptCitatorioPredial1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptDiagnosticoAdeudoImpuestoPredial.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptDiagnosticoAdeudoImpuestoPredial.vb</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptDiagnosticoPorContribuyenteDerechosAgua.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptDiagnosticoPorContribuyenteDerechosAgua.vb</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptDiagnosticoPorMontoAdeudoLicencias.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptDiagnosticoPorMontoAdeudoLicencias.vb</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptDiagnosticoPorContribuyenteLicencias.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptDiagnosticoPorContribuyenteLicencias.vb</LastGenOutput>
+      <LastGenOutput>rptDiagnosticoAdeudoImpuestoPredial1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptDiagnosticoPorContribuyente.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptDiagnosticoPorContribuyente.vb</LastGenOutput>
+      <LastGenOutput>rptDiagnosticoPorContribuyente1.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptNotificacionAdeudoDerechosAgua.rpt">
+    <EmbeddedResource Include="Reportes\Pae\rptDiagnosticoPorContribuyenteDerechosAgua.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptNotificacionAdeudoDerechosAgua.vb</LastGenOutput>
+      <LastGenOutput>rptDiagnosticoPorContribuyenteDerechosAgua1.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptNotificacionAdeudoLicencias.rpt">
+    <EmbeddedResource Include="Reportes\Pae\rptDiagnosticoPorContribuyenteLicencias.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptNotificacionAdeudoLicencias.vb</LastGenOutput>
+      <LastGenOutput>rptDiagnosticoPorContribuyenteLicencias1.vb</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Reportes\Pae\rptMandamientoEjecucionLicencias.rpt">
+    <EmbeddedResource Include="Reportes\Pae\rptDiagnosticoPorMontoAdeudoLicencias.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptMandamientoEjecucionLicencias.vb</LastGenOutput>
+      <LastGenOutput>rptDiagnosticoPorMontoAdeudoLicencias1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptMandamientoEjecucionDerechosAgua.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptMandamientoEjecucionDerechosAgua.vb</LastGenOutput>
+      <LastGenOutput>rptMandamientoEjecucionDerechosAgua1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Pae\rptMandamientoEjecucionLicencias.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMandamientoEjecucionLicencias1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptMandamientoEjecucionPredial.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptMandamientoEjecucionPredial.vb</LastGenOutput>
+      <LastGenOutput>rptMandamientoEjecucionPredial1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Pae\rptMandamientosEjecucion.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMandamientosEjecucion.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Pae\rptNotificacionAdeudoDerechosAgua.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptNotificacionAdeudoDerechosAgua1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Pae\rptNotificacionAdeudoImpuestoPredial.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>rptNotificacionAdeudoImpuestoPredial.vb</LastGenOutput>
+      <LastGenOutput>rptNotificacionAdeudoImpuestoPredial1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Pae\rptNotificacionAdeudoLicencias.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptNotificacionAdeudoLicencias1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\RptPadronContribuyentes.resx">
       <DependentUpon>RptPadronContribuyentes.vb</DependentUpon>
@@ -1421,12 +1427,8 @@
     <EmbeddedResource Include="WEB\frmWebRoles.resx">
       <DependentUpon>frmWebRoles.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="WEB\frmWebRootMenu.resx">
-      <DependentUpon>frmWebRootMenu.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="WEB\frmWebSubMenu.resx">
-      <DependentUpon>frmWebSubMenu.vb</DependentUpon>
-    </EmbeddedResource>
+    <EmbeddedResource Include="WEB\frmWebRootMenu.resx" />
+    <EmbeddedResource Include="WEB\frmWebSubMenu.resx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Datasets\base_mpioDataSet.xsc">
